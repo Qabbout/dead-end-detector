@@ -1,0 +1,19 @@
+# Python development artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.venv/
+
+# Private local observations and scratch files
+/.dead-end-detector/
+/tmp/
+
+# Local maintainer documentation
+/docs/
+
+# macOS metadata
+.DS_Store
+._*
